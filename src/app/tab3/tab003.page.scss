@@ -1,0 +1,58 @@
+
+ion-content {
+  .welcome-section,
+  .services-section,
+  .contact-section {
+    padding: 20px;
+    text-align: center;
+
+
+    h1, h2 {
+      color: #333;
+    }
+
+    p {
+      color: #555;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+
+      li {
+        margin: 10px 0;
+      }
+    }
+  }
+}
+.services-section p{
+ border-top: solid 2px rgb(142, 142, 142);
+ padding-top: 10px;
+
+}
+
+ion-content {
+  //  .welcome-section,
+   // .services-section,
+   // .contact-section {
+
+      text-align: center;
+      color: #ffffff;
+      font-size: 20px;
+
+      height: 100vh;
+      font-family: 'Bebas Neue', sans-serif !important;
+
+    }
+  // }
+
+iframe{
+  width: 100% !important;
+}
+
+@media (max-width: 768px) {
+
+
+
+    }
+
